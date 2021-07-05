@@ -8,6 +8,7 @@ namespace TestApp2
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Now i'm git-shared! yoho!");
+            Console.WriteLine("Another info to check git push");
         }
     }
 }

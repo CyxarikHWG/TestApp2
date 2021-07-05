@@ -7,7 +7,6 @@ namespace TestApp2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("I'm a GIT-Shared! YOHO!");
         }
     }
 }
